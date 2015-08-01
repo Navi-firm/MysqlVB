@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2012\Projects\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\bin\Debug\DBapplication.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\obj\Debug\DBapplication.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\obj\Debug\DBapplication.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\obj\Debug\DBapplication.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\obj\Debug\DBapplication.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\obj\Debug\DBapplication.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\obj\Debug\DBapplication.pdb
