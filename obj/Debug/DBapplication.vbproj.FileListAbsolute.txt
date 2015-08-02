@@ -8,3 +8,4 @@ C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication
 C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\obj\Debug\DBapplication.exe
 C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\obj\Debug\DBapplication.xml
 C:\Users\Admin\Documents\Visual Studio 2012\Projects\DBapplication\DBapplication\obj\Debug\DBapplication.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\DBapplication\DBapplication\obj\Debug\DBapplication.Invoicer.resources

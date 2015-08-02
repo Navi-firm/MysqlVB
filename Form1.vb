@@ -50,8 +50,9 @@ Public Class Form1
 
             'validate the inputs
             If count = 1 Then
-                lblMessage.ForeColor = Color.Green
-                lblMessage.Text = "User found"
+                Invoicer.Show()
+                Me.Hide()
+
             Else
                 lblMessage.ForeColor = Color.DarkRed
                 lblMessage.Text = "User not registered"
